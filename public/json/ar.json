@@ -1,0 +1,117 @@
+{
+    "direction" : "rtl" ,
+    "pages" : {
+        "home": {
+            "intro" : {
+                "title" : " عنوان المدخل " ,
+                "subtitle" : "_عنوان فرعي " ,
+                "btn_more" : "المزيد"
+            } ,
+            "about" : {
+                "description" : "نص وصفي صغير "
+            } ,
+            "packages" : {
+                "btn_join" : "اشترك الان"
+            } ,
+            "statistics" : {
+                "title" : "احصائيات" ,
+                "totals" : {
+                    "users" : "المستخدمين" ,
+                    "diposits" : "اجمالي الايداع" ,
+                    "profits" : "اجمالي الربح" ,
+                    "with_drow" : "اجمالي السحب"
+                } ,
+                "profits_table" : {
+                    "title" : "ارباح اخر ست باقات" ,
+                    "count" : "#" ,
+                    "package" : "الباقة" ,
+                    "price" : "السعر" ,
+                    "profit" : "الربح" ,
+                    "percentage" : "%" ,
+                    "date" : "التاريخ"
+                }
+            } ,
+            "contact" : {
+                "title" : " تواصل معنا " ,
+                "subtitle" : "ابق على الاتصال  " ,
+                "fields" :  {
+                    "name" : {
+                        "name" : "الاسم" ,
+                        "placeholder" : "ادخل الاسم"
+                    } ,
+                    "email" : {
+                        "name" : "البريد" ,
+                        "placeholder" : "ادخل البريد"
+                    } ,
+                    "phone" : {
+                        "name" : "الهاتف" ,
+                        "placeholder" : "ادخل رقم الهاتف الان"
+                    } ,
+                    "message" : {
+                        "name" : "الرسالة" ,
+                        "placeholder" : "ادخل الرسالة هنا"
+                    }
+                } ,
+                "btn_submit" : "ارسال"
+            }
+        } ,
+        "register" : {
+            "title" : "انضم الينا الان" ,
+            "terms_msg" : {
+                "msg" : "بمجرد تسجيلك معنا هذا يعني موافتك على التالي : " ,
+                "terms" : "الشروط والاحكام"
+            } ,
+            "fields" : {
+                "first_name" : {
+                    "name" : " الاسم الاول",
+                    "placeholder" :"اسمك الاول"
+                } ,
+                "middle_name" : {
+                    "name" : "الاسم الاوسط",
+                    "placeholder" :"اسمك الاوسط"
+                } ,
+                "last_name" : {
+                    "name" : "الاسم الاخير",
+                    "placeholder" :"ادخل اسمك الاخير هنا"
+                } ,
+                "email" : {
+                    "name" : "بريدك الالكتروني",
+                    "placeholder" :"ادخل بريدك الالكتروني هنا"
+                },
+                "password" : {
+                    "name" : "كلمة المرور",
+                    "placeholder" :"ادخل كلمة مرور جديدة هنا"
+                },
+                "confirm_password" : {
+                    "name" : "تاكيد كلمة المرور",
+                    "placeholder" :"اعد كتابة كلمة المرور مرة اخرى"
+                } ,
+                "country" : {
+                    "name" : "البلد" ,
+                    "placeholder" :"_Select Your Country"
+                } ,
+                "phone" : {
+                    "name" : "هاتفك" ,
+                    "placeholder" :"رقم هاتفك"
+                } ,
+                "gender" : {
+                    "name" : "الجنس" ,
+                    "male" : "ذكر" ,
+                    "female" : "انثى" ,
+                    "placeholder" :"اختر جنس"
+                } ,
+                "package" : {
+                    "name" : "الباقة" ,
+                    "placeholder" :"اختر باقة"
+                } ,
+                "btn_register" : {
+                    "name" : "تسجيل" ,
+                    "placeholder" :"_Select Your Country"
+                }
+            }
+        },
+        "about" : {
+
+        }
+    }
+}

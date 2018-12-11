@@ -1,0 +1,14 @@
+.page-container {
+    padding-right:280px;
+    padding-left: 0px;
+}
+
+.sidebar-menu {
+    right: 0 !important;
+    left: auto;
+}
+
+* {
+    text-align: right !important;
+    direction: rtl !important;
+}

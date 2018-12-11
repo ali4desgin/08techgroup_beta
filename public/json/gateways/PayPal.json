@@ -1,0 +1,20 @@
+{
+	
+	"development":{
+		"email":"user@example.com",
+		"paypal_url":"https://www.sandbox.paypal.com/cgi-bin/webscr",
+		"return_url":"http://localhost/development/08tech/paypal/success",
+		"notify_url":"http://08tech.development-master.com/paypal/notify",
+		"cancel_url":"http://localhost/development/08tech/paypal/cancel"
+	},
+	"production":{
+		"email":"user@example.com",
+		"paypal_url":"https://www.paypal.com/cgi-bin/webscr",
+		"return_url":"http://08tech.development-master.com/paypal/success.php",
+		"notify_url":"http://08tech.development-master.com/paypal/notify.php",
+		"cancel_url":"http://08tech.development-master.com/paypal/cancel.php"
+	}
+	
+	
+	
+}

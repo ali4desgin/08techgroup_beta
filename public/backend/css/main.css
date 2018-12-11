@@ -1,0 +1,154 @@
+/*main styles */
+
+
+/* include fonts */
+@import url(https://fonts.googleapis.com/earlyaccess/amiri.css);
+@import url(https://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+@import url(https://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
+@import url(https://fonts.googleapis.com/earlyaccess/lateef.css); 
+@import url(https://fonts.googleapis.com/earlyaccess/scheherazade.css);
+@import url(https://fonts.googleapis.com/earlyaccess/thabit.css);
+.amiri{font-family: 'Amiri', serif;}
+.droid-arabic-kufi{font-family: 'Droid Arabic Kufi', serif;}
+.droid-arabic-naskh{font-family: 'Droid Arabic Naskh', serif;}
+.lateef{font-family: 'Lateef', serif;}
+.scheherazade{font-family: 'Scheherazade', serif;}
+.thabit{font-family: 'Thabit', serif;}
+
+
+/* global styles*/
+* {
+    font-family: 'Droid Arabic Kufi', serif;
+}
+
+
+.ltr {
+    direction: ltr;
+    text-align: left
+}
+
+.error {
+    margin: 10px 0px;
+}
+
+.mar-bottm15 {
+    margin-bottom: 15px
+}
+
+
+.btm_border {
+    border-bottom: 1px solid #EEE;
+    padding: 8px 0px;
+    margin-bottom: 8px;
+}
+
+/*login page styles*/
+
+
+.borderbottm {
+	border-bottom: 1px solid #000;
+}
+.mar15 {
+	margin: 15px;
+}
+
+
+.login_area {
+    width: 500px;
+    margin: 80px auto;
+    padding: 30px;
+    background: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 2px 6px 9px #b2b2b2;
+}
+
+.login_area h1 {
+    text-align: center;
+    margin: 0px 0px 25px 0px;
+    font-size: 30px;
+    color: #aeaeae;
+}
+
+
+.heading-text-center {
+	text-align:center;
+	color:#777;
+	margin: 20px 0px;
+}
+
+
+
+.tbl_area {
+	    margin-top: 30px;
+}
+
+.gray_1 {
+	color:#DDD;
+}
+.gray_2 {
+	color:#777;
+}
+
+
+.footer {
+	margin-top:50px;
+	}
+
+
+th {
+	text-align:center
+}
+
+
+
+.no-decoration-in-a {
+	text-decoration:none;
+}
+
+
+.gre_block {
+    color: #208022;
+    font-weight: bold;
+}
+/*dashboard page*/
+.static_tab h5 {
+    text-align: center
+}
+
+.static_tab span {
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+
+.static h1 {
+    margin: 20px 0px;
+    text-align: center;
+    font-weight: bold;
+    color: #777;
+}
+
+.static h5 {
+    text-align: center;
+    margin-bottom: 21px;
+    color: #777;
+}
+.package .price {
+    color: #2b9972;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+/*users page*/
+
+
+
+
+
+
+
+
+
+

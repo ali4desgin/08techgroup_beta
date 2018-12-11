@@ -1,0 +1,117 @@
+{
+    "direction" : "ltr" ,
+    "pages" : {
+        "home": {
+            "intro" : {
+                "title" : "_simple title in english language " ,
+                "subtitle" : "_nice description in English language " ,
+                "btn_more" : "_MORE"
+            } ,
+            "about" : {
+                "description" : "_nice --description in English language "
+            } ,
+            "packages" : {
+                "btn_join" : "_JOIN NOW"
+            } ,
+            "statistics" : {
+                "title" : "_Statistics" ,
+                "totals" : {
+                    "users" : "_Users" ,
+                    "diposits" : "_Total Diposits" ,
+                    "profits" : "_Total Profits" ,
+                    "with_drow" : "_Total WithDrow"
+                } ,
+                "profits_table" : {
+                    "title" : "_Last 6 Packages Daily Profit" ,
+                    "count" : "_#" ,
+                    "package" : "_Package" ,
+                    "price" : "_Price" ,
+                    "profit" : "_Profit" ,
+                    "percentage" : "_%" ,
+                    "date" : "_Date"
+                }
+            } ,
+            "contact" : {
+                "title" : "_CONTACT US " ,
+                "subtitle" : "_Keep in touch " ,
+                "fields" :  {
+                    "name" : {
+                        "name" : "_Name" ,
+                        "placeholder" : "_Your name"
+                    } ,
+                    "email" : {
+                        "name" : "_Email" ,
+                        "placeholder" : "_Your Email"
+                    } ,
+                    "phone" : {
+                        "name" : "_Phone" ,
+                        "placeholder" : "_Your Phone number"
+                    } ,
+                    "message" : {
+                        "name" : "_Message" ,
+                        "placeholder" : "_Your Message"
+                    }
+                } ,
+                "btn_submit" : "_SEND FORM"
+            }
+        } ,
+        "register" : {
+            "title" : "_Join Us Now" ,
+            "terms_msg" : {
+                "msg" : "By regestring in this site that means you agree to the following terms : " ,
+                "terms" : "Terms and Conditions"
+            } ,
+            "fields" : {
+                "first_name" : {
+                    "name" : "_First Name",
+                    "placeholder" :"_Your name"
+                } ,
+                "middle_name" : {
+                    "name" : "_Middle Name",
+                    "placeholder" :"_Your Middle name"
+                } ,
+                "last_name" : {
+                    "name" : "_Last Name",
+                    "placeholder" :"_Your Last name"
+                } ,
+                "email" : {
+                    "name" : "_Email Address",
+                    "placeholder" :"_Your Email Address"
+                },
+                "password" : {
+                    "name" : "_Password",
+                    "placeholder" :"_Your New PAssword"
+                },
+                "confirm_password" : {
+                    "name" : "_Confirm Password",
+                    "placeholder" :"_Rewrite Password"
+                } ,
+                "country" : {
+                    "name" : "_Your Country" ,
+                    "placeholder" :"_Select Your Country"
+                } ,
+                "phone" : {
+                    "name" : "_Phone" ,
+                    "placeholder" :"_Your Phone"
+                } ,
+                "gender" : {
+                    "name" : "_Gender" ,
+                    "male" : "_Male" ,
+                    "female" : "_Female" ,
+                    "placeholder" :"_Select Your Country"
+                } ,
+                "package" : {
+                    "name" : "_Package" ,
+                    "placeholder" :"_Select Your Country"
+                } ,
+                "btn_register" : {
+                    "name" : "_Register" ,
+                    "placeholder" :"_Select Your Country"
+                }
+            }
+        },
+        "about" : {
+
+        }
+    }
+}

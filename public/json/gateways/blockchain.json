@@ -1,0 +1,17 @@
+{
+	
+	"development":{
+		"apikey":"xxxxxxxx",
+		"xpublickey":"xxxxxxxx",
+		"notify_url":"http://08tech.development-master.com/blockchain/notify.php",
+		"return_url":"http://08tech.development-master.com/blockchain/complete.php"
+	},
+	"production":{
+		"apikey":"xxxxxxxx",
+		"notify_url":"http://08tech.development-master.com/blockchain/notify.php",
+		"return_url":"http://08tech.development-master.com/blockchain/complete.php"
+	}
+	
+	
+	
+}

@@ -1,0 +1,28 @@
+.modal {
+	z-index: 99999;
+	background:#149dcc;
+}
+
+.heading-title {
+	color:#777;
+	margin:20px 0px;
+	text-align:center;
+}
+.delete-marign {
+	margin:0px !important;
+}
+.margin_tb_15 {
+	margin:15px 0px !important;
+}
+
+.margin_tb_50 {
+	margin:50px 0px !important;
+}
+
+.danger_color {
+	color:#dc3545;
+}
+
+.daliyprofit,.aboutus {
+    background-color: #fafafa;
+}

@@ -1,0 +1,1 @@
+@extends("Emails.Layout.master")
